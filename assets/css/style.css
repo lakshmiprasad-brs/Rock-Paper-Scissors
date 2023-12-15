@@ -143,6 +143,9 @@ header h4 {
     text-align: center;
     font-size: larger;
     font-weight: 200;
+     background-color: #838383;
+    color: #dedede;
+    padding-top: 3px;
 }
    
 
